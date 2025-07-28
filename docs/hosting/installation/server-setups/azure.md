@@ -50,7 +50,7 @@ git clone https://github.com/n8n-io/n8n-kubernetes-hosting.git -b azure
 And change directory to the root of the repository you cloned:
 
 ```shell
-cd azure
+cd n8n-kubernetes-hosting
 ```
 
 ## Configure Postgres
